@@ -1,0 +1,6 @@
+path: ''
+learning_rate: 0.01
+batch_size: 128
+inchannel: 1
+num_classes: 11
+epochs: 100

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+rm -rf ./models
+rm -rf ./logs
+rm -rf ./checkpoint
+rm -rf ./result
+rm -rf ./nohup.out

@@ -1,0 +1,6 @@
+path: '../../experiment3/data/cifar10_data'
+learning_rate: 0.01
+batch_size: 128
+inchannel: 3
+num_classes: 10
+epochs: 200
